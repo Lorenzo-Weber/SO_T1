@@ -1,0 +1,9 @@
+tags
+*.o
+*.d
+*.maq
+log_da_console
+.cache
+
+.vscode
+.DS_Store
